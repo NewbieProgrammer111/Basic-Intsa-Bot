@@ -1,4 +1,4 @@
-# Basic-Intsa-Bot
+# Basic-Insta-Bot
 ---------------------
 1.Basic Intsa bot using Instagrapi
 
